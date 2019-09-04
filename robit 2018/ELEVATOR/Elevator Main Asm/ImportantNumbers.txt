@@ -1,0 +1,18 @@
+DepthGroove- 0.9834646
+CenterBoreToUChannelEdge- 0.5417323
+CarriageEdgetoCenterBore- 0.0417323
+CarriageCrossBarIncrease- 0.4
+AddtoCarriageCross- 0.1957677
+0.0027323
+
+OuterBearingDiameter- 1.2098425
+BoreClearancetoCarriageEdge- 0.2509998
+CarriageTopEdgetoBoreCenter- 0.47992125
+BoltToBearingSpacer- 0.2414961
+ShoulderBoltGapDiameter- 0.2356688
+BearingtoUChannelSpacing- 0.0625
+BearingGrooveDiameter- 0.9834646 Radius- 0.4917323
+needs 0.0625 Distance
+overall distance away- 0.5542323
+Distance from Carriage Edge- 0.4259998 (OG- 0.438498)
+0.364
